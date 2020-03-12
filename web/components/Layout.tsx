@@ -1,7 +1,6 @@
 import * as React from 'react'
 import Link from 'next/link'
 import Head from 'next/head'
-
 type Props = {
   title?: string
 }
@@ -36,6 +35,7 @@ const Layout: React.FunctionComponent<Props> = ({
       <hr />
       <span>I'm here to stay (Footer)</span>
     </footer>
+  
   </div>
 )
 
