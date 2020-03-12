@@ -16,7 +16,8 @@
     "react-dom": "^16.13.0"
   },
   "devDependencies": {
-    "@types/next": "^9.3.0",
+    "@types/next": "^9.0.0",
+    "@types/node": "^13.9.0",
     "@types/react": "^16.9.23",
     "@zeit/next-typescript": "^1.1.1",
     "typescript": "3.7.3"
