@@ -9,6 +9,7 @@ const IndexPage: NextPage = () => {
   return (
     <>
       <Container>
+        <h1>Thai COVID-19 Tracker - สถานการณ์ COVID-19</h1>
         <Row>
           <Col md={7}>
             <Map></Map>
